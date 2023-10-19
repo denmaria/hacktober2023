@@ -1,0 +1,48 @@
+IT SUPPORT: 
+
+Basic computer architecture
+
+Operating systems (Windows, Linux)
+
+Remote connection and virtual machines
+
+Computer networking
+
+Software management
+
+Troubleshooting
+
+Customer service
+
+Routing concepts
+
+VPNs and proxies
+
+Permissioning
+
+Package and software management
+
+Process management
+
+Resource monitoring
+
+Systems administration
+
+Configuration
+
+Centralized management
+
+Implementing/managing directory services
+
+Data management and recovery
+
+IT security
+
+Cryptology/encryption
+
+Hashing
+
+Network security
+
+-------------------
+
